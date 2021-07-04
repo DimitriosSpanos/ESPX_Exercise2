@@ -1,5 +1,10 @@
 # ESPX - Exercise 2
 
+# Binary Files
+
+**timestamps.bin** contains the differences of times as "double".
+**covidTrace.bin** contains the MAC address values as "uint64".
+
 # User Space
 
 To test locally, you should have the **arm-linux-gnueabihf-gcc** cross-compiler.
