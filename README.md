@@ -3,6 +3,7 @@
 # Binary Files
 
 **timestamps.bin** contains the differences of times as "double".
+
 **covidTrace.bin** contains the MAC address values as "uint64".
 
 # User Space
